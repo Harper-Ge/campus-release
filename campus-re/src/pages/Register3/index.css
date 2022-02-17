@@ -1,0 +1,30 @@
+.schedule-title {
+    font-family: PingFang SC;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    color: #8C8C8C;
+    margin: 20px 0 4px 16px;
+
+}
+.schedule1 {
+    background: url(../../img/schedule3.png) no-repeat;
+    width: 60px;
+    height: 6px;
+    margin: 0 0 8px 16px;
+}
+.register1-title {
+    font-size: 20px;
+    line-height: 28px;
+    margin:0 0 14px 16px;
+}
+.register3-title {
+    position: absolute;
+    bottom: 65px;
+    font-size: 12px;
+line-height: 17px;
+width: 100%;
+text-align: center;
+
+}
