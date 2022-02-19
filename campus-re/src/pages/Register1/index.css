@@ -34,3 +34,17 @@
 input:focus {
     outline: skyblue solid;
 }
+.next1 {
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #FFFFFF;
+    background: #4FB2FF;
+    border-radius: 100px;
+    border-style: none;
+    width: 66px;
+    height: 28px;
+    position: absolute;
+    top: 51.5px;
+    right: 16px;
+}

@@ -4,9 +4,6 @@
     background: linear-gradient(259.25deg, rgba(255, 204, 0, 0.184047) 2.24%, rgba(255, 204, 0, 0.0001) 62.73%),
                 linear-gradient(180deg, #EBF8FF 1.39%, #F9F9F9 34.28%);
     position: absolute;
-    display: flex;
-    justify-content: space-between;
-    flex-direction: column;
 }
 .login-header {
     position: relative;
@@ -19,6 +16,11 @@
 }
 .login-bottom {
     margin: 0 auto;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    display: block;
 }
 .login-title1 {
     display: inline-block;

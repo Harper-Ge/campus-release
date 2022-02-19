@@ -1,0 +1,42 @@
+.register-bg {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    background: #F5FAFD;
+    height: 91px;
+    top: 0px;
+    border-radius: 0px;
+    width: 100%;
+    position: relative;
+
+}
+.register-title {
+    display: inline-block;
+    position: absolute;
+    width: 96px;
+    height: 22px;
+    left: 37%;
+    top: 55px;
+    line-height: 22px;
+}
+.register-return {
+    background: url(../../img/register-btn1.png) no-repeat;
+    background-size: contain;
+    width: 16px;
+    height: 16px;
+    border-style: none;
+    position: absolute;
+    top: 58.5px;
+    left: 16px;
+}
+.register-close {
+    background: url(../../img/register-btn2.png) no-repeat;
+    border-style: none;
+    background-size: contain;
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    top: 58.5px;
+    left: 57px;
+}
